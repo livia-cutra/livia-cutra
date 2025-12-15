@@ -1,20 +1,19 @@
-## Livia Cutra | Computer Science & Design Student
+## Livia Cutra | Full-Stack Developer
 
 Aspiring Software Engineer with a passion for building thoughtful, human-centered digital experiences. I enjoy combining clean code, design principles, and problem-solving to create scalable, impactful products.
 
-🎓 BS in Computer Science & Design (Minor in Mathematics) at Northeastern University
-💻 Interests: Frontend Development, Full-Stack Engineering, Human-Centered Tech  
-🌱 Currently learning: React, TypeScript, System Design, Data-Driven Applications  
-📫 Reach me: liviacutra@gmail.com | https://www.linkedin.com/in/liviacutra  
+- 🎓 BS in Computer Science & Design (Minor in Mathematics) at Northeastern University
+- 💻 Interests: Frontend Development, Full-Stack Engineering, Human-Centered Tech  
+- 🌱 Currently learning: React, TypeScript, System Design, Data-Driven Applications  
+- 📫 Reach me: liviacutra@gmail.com | https://www.linkedin.com/in/liviacutra  
   
----
 
 ## 🛠 Technical Skills
 
-**Languages:** Java, Python, JavaScript, TypeScript, SQL  
-**Frameworks & Tools:** React, Node.js, Express, Tailwind CSS, Git, Figma  
-**Databases & Cloud:** MongoDB, PostgreSQL  
-**Other:** REST APIs, Agile Development, Responsive Design, UI/UX Prototyping  
+- **Languages:** Java, Python, JavaScript, TypeScript, SQL  
+- **Frameworks & Tools:** React, Node.js, Express, Tailwind CSS, Git, Figma  
+- **Databases & Cloud:** MongoDB, PostgreSQL  
+- **Other:** REST APIs, Agile Development, Responsive Design, UI/UX Prototyping  
 
 
 <!--
@@ -30,22 +29,21 @@ Aspiring Software Engineer with a passion for building thoughtful, human-centere
 *(more projects coming soon!)*
 -->
 
----
+
 
 ## 📊 GitHub Highlights
 
-- contributions across academic, personal, and team-based projects  
-- experience collaborating in Git-based workflows and Agile teams  
-- comfortable with version control, debugging, and iterative development  
+- Contributions across academic, personal, and team-based projects  
+- Experience collaborating in Git-based workflows and Agile teams  
+- Comfortable with version control, debugging, and iterative development  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=livia-cutra&show_icons=true&theme=default)
 
----
 
-## 📫 Connect with Me
+## Connect with Me
 
-🔗 linkedin: https://www.linkedin.com/in/liviacutra  
-🌐 portfolio: coming soon...
+🔗 linkedin: https://www.linkedin.com/in/liviacutra    
+🌐 portfolio: coming soon...    
+📫 email: liviacutra@gmail.com
 <!--
 **livia-cutra/livia-cutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
