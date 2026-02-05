@@ -42,6 +42,7 @@ Aspiring Software Engineer with a passion for building thoughtful, human-centere
 ## Connect with Me
 
 🌐 portfolio: livias-website.onrender.com/
+
 🔗 linkedin: https://www.linkedin.com/in/liviacutra     
 📫 email: liviacutra@gmail.com
 <!--
