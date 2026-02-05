@@ -41,8 +41,8 @@ Aspiring Software Engineer with a passion for building thoughtful, human-centere
 
 ## Connect with Me
 
+🌐 portfolio: livias-website.onrender.com/   
 🔗 linkedin: https://www.linkedin.com/in/liviacutra    
-🌐 portfolio: coming soon...    
 📫 email: liviacutra@gmail.com
 <!--
 **livia-cutra/livia-cutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
